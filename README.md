@@ -8,3 +8,6 @@ Add new feature NO.1
 
 2020年04月14日
 Modify the Readme
+
+2020年04月14日14:15:12
+Add a new method to solve bug #10
