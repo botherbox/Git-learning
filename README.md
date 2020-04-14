@@ -11,3 +11,6 @@ Modify the Readme
 
 2020年04月14日14:15:12
 Add a new method to solve bug #10
+
+2020-04-14 14:19:07
+Git tracks changes
