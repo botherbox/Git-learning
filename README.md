@@ -14,3 +14,6 @@ Add a new method to solve bug #10
 
 2020-04-14 14:19:07
 Git tracks changes
+
+2020-04-14 14:20:02
+Git tracks changes of files
