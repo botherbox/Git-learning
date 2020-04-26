@@ -19,3 +19,4 @@ Git tracks changes
 Git tracks changes of files
 
 Fix bug-1
+Fix bug-2
